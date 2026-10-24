@@ -1,6 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
+    <item>
+      <title>PermissionBot 1.0.0</title>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Sat, 24 Oct 2026 21:11:13 GMT</pubDate>
+      <enclosure url="https://github.com/benmcdowell/PermissionBot-releases/releases/download/v1.0.0/PermissionBot-1.0.0.zip" sparkle:edSignature="HL8DmB0Yfwy2oxH3nnS0wPvy7DSA99PkYEzKdWP9F1QcDrzJF/tReNpjVQzI7Y/l3rHQoud4MLYg/MwlQI35DQ==" length="1357700" type="application/octet-stream" />
+    </item>
     <title>PermissionBot Updates</title>
     <link>https://github.com/benmcdowell/PermissionBot-releases/releases</link>
     <description>Signed PermissionBot updates for macOS.</description>
